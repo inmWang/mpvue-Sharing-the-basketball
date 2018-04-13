@@ -1,6 +1,6 @@
-# crm
+# 分享身边的篮球场
 
-> A Mpvue project
+> 使用mpvue开发的分享篮球场位置的小程序，后台使用egg.js
 
 ## Build Setup
 
